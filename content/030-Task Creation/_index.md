@@ -10,4 +10,4 @@ Now that our flow has been created and we've walked through the Starting Menu, w
 
 In this module, we're familiarize you with some commonly used actions and construct a basic flow. You'll also understand how to recognize and correct errors, before moving on to testing.
 
-![Title Card](/images/Title6.jpg)
+![Title Card](/images/Title6-540x241.jpg)
