@@ -8,7 +8,7 @@ weight: 10
 #### Import/Export
 
 You can import and export flow configuration. When you import a file, Architect analyzes the file to determine the type of configuration data that it contains. The prompts you are given depend on the type of file it is importing. You can also export a previously created flow’s configuration file for use in another flow. For more information, click to expand the appropriate sections, and click again to close it.
-**Note:** Importing a flow from an outside organization may require some configuration updates; even if for items such as data actions with similar names. Until you update any configuration issues, Architect returns validation errors in the flow.
+**Note:** Importing a flow from an outside organization may require some configuration updates; even for items such as data actions with similar names. Until you update any configuration issues, Architect returns validation errors in the flow.
 
 #### Version
 

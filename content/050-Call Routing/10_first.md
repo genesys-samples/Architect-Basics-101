@@ -14,7 +14,7 @@ On the Call Routing tab, you can view a list of active call flows and the teleph
 
 Let’s map a phone number to our call flow created in Architect. Select the **Add Call Route** button at the top. 
 
-We’ll name this route, “Workshop Route,” then select **Addresses +** at the top right to assign a number.
+We’ll name this route, “Workshop Route - **Your Name**,” then select **Addresses +** at the top right to assign a number.
 
 Begin typing out a number currently owned, and the UI will narrow the search of those available. Select the appropriate number, then click **Add.** Finally, **Save**
 

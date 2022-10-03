@@ -6,7 +6,7 @@ weight: 30
 
 ## Languages & Speech Recognition
 
-In our **Settings** Menu, we can set up both the **Supported Languages** for this flow, and **Speech Recognition Options**. Let’s start with **Support Languages**. 
+In our **Settings** Menu, we can set up both the **Supported Languages** for this flow, and **Speech Recognition Options**. Let’s start with **Supported Languages**. 
 
 Within a flow’s general configuration, you can configure supported languages. Architect lists the names of supported languages in audio-related forms, so that you can select a particular language for playback or recording of a prompt. 
 

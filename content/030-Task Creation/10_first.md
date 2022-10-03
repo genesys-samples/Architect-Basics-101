@@ -14,6 +14,6 @@ Lets return to our Help Desk task and begin to build this out. Next to our Start
 * Data > Data Table Lookup - Retrieve data stored in a Genesys Cloud data table.
 * Flow > Set Screen Pop - Select a predefined script and, if necessary, configure the input variables that store the selection made by the user at runtime
 * Logical > Evaluate Schedule Group - Use this action with the Evaluate Schedule action to make routing decisions based on previously defined schedules and schedule groups.
-* Transfer > Transfer to ACD - Transfer a caller into a queuing system.
+* Transfer > Transfer to ACD - Transfer a caller into a queueing system.
 
 ![Architect Toolbar](/images/Toolbar.jpg)
