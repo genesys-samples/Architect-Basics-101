@@ -6,13 +6,14 @@ weight: 10
 
 ## Overview
 
-Pré-requisito: configuração do Genesys Cloud CX para Partners https://workshop.genesys.com/workshops/gride-demo/
+Prerequisite: Genesys Cloud CX Channel Setup https://workshop.genesys.com/workshops/gride-demo/
 
-O Genesys Architect ajuda os administradores e autores de fluxo a criar fluxos de chamada que atendem uma chamada automaticamente, apresentam opções de menu ao chamador e, em seguida, direcionam a chamada de acordo com a escolha do chamador. As opções apresentadas aos seus clientes podem mudar com base nas mudanças em seus negócios. Seja um novo pedido, uma pergunta ou um problema, o roteamento por meio do Architect permite que os chamadores determinem suas necessidades escolhendo entre as opções.
+Architect helps administrators and flow authors build call flows that answer a call automatically, present the caller with menu choices, and then route the call according to the caller’s choice. The options presented to your customers might change based on changes to your business. Whether it is a new order, a question, or an issue, routing through Architect allows callers to determine their needs by choosing among options.
 
-Para garantir que você direcione seus clientes da maneira mais direta, avalie periodicamente o design do fluxo de chamadas. O Architect está totalmente configurado e operacional – você não precisa fazer download de software ou fazer atualizações. Genesys Cloud armazena o software e seus dados com segurança fora do local usando a Internet.
 
-Objetivo: neste curso, você percorrerá o processo de criação de um fluxo de chamada de entrada IVR básico. Discutiremos convenções de nomenclatura, definiremos opções de idioma e discutiremos o reconhecimento de fala. Você aproveitará a barra de ferramentas de fluxo para personalizar e configurar o caminho de rota que uma chamada segue ao entrar no IVR. Aprender a adicionar prompts de áudio, usar identificadores exclusivos e decidir a rota seguida com base na programação do centro de contato. Por fim, testaremos a rota antes de executá-la para um “agente ativo”. Este curso o ajudará a entender os fundamentos do Architect, antes de passar para o nosso curso de nível 200 para uma personalização mais aprofundada. 
+To ensure that you route your customers in the most direct manner, periodically assess your call flow design. Architect is fully configured and operational–you do not need to download software or perform upgrades. Genesys Cloud stores the software and your data safely off site using the Internet.
+
+Objective: In this course, you’ll walk through the process of building a basic IVR Inbound Call Flow. We’ll discuss naming conventions, set language options, and discuss speech recognition. You’ll leverage the flow toolbar to customize and configure the route path a call takes when entering the IVR. Learning to add audio prompts, use unique identifiers, and decide the route taken based on the contact center schedule. Lastly, we’ll test the route before running it to a “live agent.” This course will get you started in understanding the basics of Architect, before moving on to our level 200 course for more in-depth customization. 
 
 ![Genesys Logo](/images/Architect101.jpg)
 
